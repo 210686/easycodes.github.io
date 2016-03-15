@@ -1,0 +1,74 @@
+#box {
+  height: 500px;
+  width: 500px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
+}
+
+#red_box {
+  height: 362.5px;
+  width: 362.5px;
+  background-color: red;
+  float: right;
+  border-style: solid;
+  border-width: 5px;
+  border-color: black;
+}
+
+#white_one {
+  height: 155px;
+  width: 138.5px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: black;
+}
+
+#white_two {
+  height: 195px;
+  width: 138.5px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: black;
+}
+
+#blue {
+  height: 123px;
+  width: 123px;
+  background-color: blue;
+  border-style: solid;
+  border-width: 5px;
+  border-color: black;
+}
+
+#white_big {
+  width: 362.5px;
+  height: 124px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: black;
+  position: absolute;
+  left: 137px;
+  bottom: 153px;
+}
+
+#yellow {
+  height: 61.5px;
+  width: 52px;
+  border-style: solid;
+  border-width: 4px;
+  border-color: black;
+  float: right;
+  background-color: yellow;
+  margin: -4px;
+}
+
+#white_small {
+  height: 123px;
+  width: 52px;
+  border-style: solid;
+  border-width: 4px;
+  border-color: black;
+  float: right;
+  margin: -4px;
+}
