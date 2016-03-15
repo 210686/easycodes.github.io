@@ -47,9 +47,7 @@
   border-style: solid;
   border-width: 5px;
   border-color: black;
-  position: absolute;
-  left: 137px;
-  bottom: 153px;
+  right: 0;
 }
 
 #yellow {
